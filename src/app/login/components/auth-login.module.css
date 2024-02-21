@@ -1,0 +1,9 @@
+.root form {
+  margin-top: 2rem;
+}
+
+.root .field {
+  display: grid;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
